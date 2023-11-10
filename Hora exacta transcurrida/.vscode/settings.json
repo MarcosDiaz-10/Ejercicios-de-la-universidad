@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.json": "json",
+        ".env": "dotenv",
+        ".env.template": "dotenv",
+        "iostream": "cpp"
+    }
+}
